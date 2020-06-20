@@ -1,0 +1,15 @@
+{
+    "name": "firewards/convertkit-php-api",
+    "description": "Simple access interface to ConvertKit's web API.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Stücken",
+            "email": "dennis@firewards.com"
+        }
+    ],
+    "require": {
+        "convertkit/convertkitapi": "dev-master"
+    }
+}
