@@ -152,10 +152,6 @@ $api->add_tag(tag_id, [
 Please note that ConvertKit is rate limiting requests by 120 requests per minute.
 If your request rate exceeds the limit, ConvertKit PHP Api will throw a *RateLimitExcededException*.
 
-## Contributing
-
-Please see [CONTRIBUTING](https://github.com/thephpleague/oauth2-client/blob/master/CONTRIBUTING.md) for details.
-
 ## License
 
 The MIT License (MIT). Please see [License File](https://github.com/thephpleague/oauth2-client/blob/master/LICENSE) for more information.
